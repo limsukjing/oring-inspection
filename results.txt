@@ -1,0 +1,184 @@
+----- Processed Image #1 -----
+Threshold Value (Clustering): {'T1': 225.2, 'T2': 169.5, 'T3': 169.0, 'T4': 169.0}
+Threshold Value (Histogram-Based): 167
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (104.5, 121.0)
+Radius: 61.5
+Result: O-ring is flawed.
+Processing Time: 1.674s | FAIL
+
+
+----- Processed Image #2 -----
+Threshold Value (Clustering): {'T1': 156.4, 'T2': 120.5, 'T3': 120.5}
+Threshold Value (Histogram-Based): 117
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (109.0, 105.5)
+Radius: 85.0
+Result: O-ring is not flawed.
+Processing Time: 1.449s | PASS
+
+
+----- Processed Image #3 -----
+Threshold Value (Clustering): {'T1': 126.0, 'T2': 76.5, 'T3': 76.0, 'T4': 76.0}
+Threshold Value (Histogram-Based): 77
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (114.5, 102.0)
+Radius: 62.5
+Result: O-ring is flawed.
+Processing Time: 1.617s | FAIL
+
+
+----- Processed Image #4 -----
+Threshold Value (Clustering): {'T1': 169.6, 'T2': 118.0, 'T3': 117.5, 'T4': 117.5}
+Threshold Value (Histogram-Based): 112
+Unique Labels:  [0.0, 100.0, 200.0]
+O-ring's Label: 100
+Broken Pieces Exist: Yes
+Centroid: (100.5, 106.5)
+Radius: 73.5
+Result: O-ring is not flawed.
+Processing Time: 1.637s | PASS
+
+
+----- Processed Image #5 -----
+Threshold Value (Clustering): {'T1': 220.9, 'T2': 169.0, 'T3': 168.5, 'T4': 168.5}
+Threshold Value (Histogram-Based): 169
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (108.5, 101.5)
+Radius: 83.5
+Result: O-ring is flawed.
+Processing Time: 1.606s | FAIL
+
+
+----- Processed Image #6 -----
+Threshold Value (Clustering): {'T1': 164.9, 'T2': 113.5, 'T3': 113.5}
+Threshold Value (Histogram-Based): 103
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (117.5, 116.0)
+Radius: 81.5
+Result: O-ring is not flawed.
+Processing Time: 1.441s | PASS
+
+
+----- Processed Image #7 -----
+Threshold Value (Clustering): {'T1': 121.7, 'T2': 74.0, 'T3': 74.0}
+Threshold Value (Histogram-Based): 62
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (110.5, 109.0)
+Radius: 86.5
+Result: O-ring is flawed.
+Processing Time: 1.454s | FAIL
+
+
+----- Processed Image #8 -----
+Threshold Value (Clustering): {'T1': 173.3, 'T2': 123.5, 'T3': 123.0, 'T4': 123.0}
+Threshold Value (Histogram-Based): 117
+Unique Labels:  [0.0, 100.0, 200.0]
+O-ring's Label: 100
+Broken Pieces Exist: Yes
+Centroid: (103.0, 98.0)
+Radius: 80.0
+Result: O-ring is not flawed.
+Processing Time: 1.679s | PASS
+
+
+----- Processed Image #9 -----
+Threshold Value (Clustering): {'T1': 216.9, 'T2': 168.0, 'T3': 166.5, 'T4': 166.5}
+Threshold Value (Histogram-Based): 166
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (102.5, 101.0)
+Radius: 87.5
+Result: O-ring is flawed.
+Processing Time: 1.649s | FAIL
+
+
+----- Processed Image #10 -----
+Threshold Value (Clustering): {'T1': 169.7, 'T2': 117.5, 'T3': 117.5}
+Threshold Value (Histogram-Based): 108
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (88.0, 86.5)
+Radius: 63.0
+Result: O-ring is not flawed.
+Processing Time: 1.427s | PASS
+
+
+----- Processed Image #11 -----
+Threshold Value (Clustering): {'T1': 127.9, 'T2': 78.0, 'T3': 78.0}
+Threshold Value (Histogram-Based): 74
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (107.0, 125.0)
+Radius: 63.0
+Result: O-ring is flawed.
+Processing Time: 1.415s | FAIL
+
+
+----- Processed Image #12 -----
+Threshold Value (Clustering): {'T1': 178.5, 'T2': 125.5, 'T3': 124.5, 'T4': 124.5}
+Threshold Value (Histogram-Based): 120
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (107.0, 105.0)
+Radius: 62.0
+Result: O-ring is not flawed.
+Processing Time: 1.619s | PASS
+
+
+----- Processed Image #13 -----
+Threshold Value (Clustering): {'T1': 235.7, 'T2': 181.5, 'T3': 181.0, 'T4': 181.0}
+Threshold Value (Histogram-Based): 179
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (99.0, 100.5)
+Radius: 60.0
+Result: O-ring is flawed.
+Processing Time: 1.609s | FAIL
+
+
+----- Processed Image #14 -----
+Threshold Value (Clustering): {'T1': 176.1, 'T2': 127.0, 'T3': 126.5, 'T4': 126.5}
+Threshold Value (Histogram-Based): 115
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (122.0, 110.0)
+Radius: 88.0
+Result: O-ring is not flawed.
+Processing Time: 1.630s | PASS
+
+
+----- Processed Image #15 -----
+Threshold Value (Clustering): {'T1': 120.1, 'T2': 74.5, 'T3': 74.0, 'T4': 74.0}
+Threshold Value (Histogram-Based): 64
+Unique Labels:  [0.0, 100.0]
+O-ring's Label: 100
+Broken Pieces Exist: No
+Centroid: (102.0, 100.0)
+Radius: 90.0
+Result: O-ring is flawed.
+Processing Time: 1.605s | FAIL
+
+
+----- Conclusion -----
+FAIL: 8 (#1, #3, #5, #7, #9, #11, #13, #15)
+PASS: 7 (#2, #4, #6, #8, #10, #12, #14)
+
