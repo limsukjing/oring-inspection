@@ -36,14 +36,14 @@ python inspection.py
 
 1. Read the o-ring images from the `res` folder in a loop. 
 2. **Image segmentation:** partition each image into foreground and background using either a histogram-based or a clustering-based thresholding method.
-4. **Binary morphology:** perform dilation and erosion to fill interior holes, or generally remove any imperfections in the images.
-5. **Connected-component labelling (CCL):** extract the foreground pixels, i.e. pixels belonging to the o-ring and assign unique labels to groups of pixels that are connected. *Use the labels assigned to remove broken pieces.*
-6. **Contour detection:** extract contours and generate a bounding box around the labelled o-ring.
-7. **Image analysis:** analyze the extracted region to determine whether the o-rings are defective and label them accordingly. 
+3. **Binary morphology:** perform dilation and erosion to fill interior holes, or generally remove any imperfections in the images.
+4. **Connected-component labelling (CCL):** extract the foreground pixels, i.e. pixels belonging to the o-ring and assign unique labels to groups of pixels that are connected. *Use the labels assigned to remove broken pieces.*
+5. **Contour detection:** extract contours and generate a bounding box around the labelled o-ring.
+6. **Image analysis:** analyze the extracted region to determine whether the o-rings are defective and label them accordingly. 
     - split the o-ring in half vertically and calculate its thickness, i.e. the number of foreground pixels, on each side.
     - in theory, an o-ring should be symmetrical so its thickness on each side must be approximately equal.
     - the o-ring will be classified as failed as long as it's chipped or broken.
-8. Add image processing time as an annotation to the output image.
+7. Add image processing time as an annotation to the output image.
 
 ## Built With
 
